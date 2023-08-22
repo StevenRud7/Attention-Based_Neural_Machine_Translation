@@ -2,7 +2,7 @@
 
 Here I trained an attention-based neural machine  translation model to translate words from English to Pig Latin.
 
-# Pig Latin
+# Pig Latin Explanation
 Pig Latin is a simple transformation of English based on the following rules 
 (applied on a per-word basis):
 * If the first letter of a word is a consonant, then the letter is moved to the 
@@ -18,3 +18,6 @@ i went shopping iway entway oppingshay
 
 
 Further details are provided in the Assignemnt Details pdf
+
+
+Assignemnt is adapted from COSI 114b at Brandeis University
