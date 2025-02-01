@@ -3,7 +3,7 @@
 Here I trained an attention-based neural machine  translation model to translate words from English to Pig Latin.
 
 # Pig Latin Explanation
-Pig Latin is a simple transformation of English based on the following rules 
+Pig Latin is a transformation of English based on the following rules 
 (applied on a per-word basis):
 * If the first letter of a word is a consonant, then the letter is moved to the 
 end of the word, and the letters “ay” are added to the end: team eamtay.
